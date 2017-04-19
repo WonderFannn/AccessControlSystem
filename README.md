@@ -1,5 +1,6 @@
 ActionBarSherlock Library
 =========================
+Eclipse工程,作为EntranceSystem和HomeSystem的依赖库
 
 This folder contains the main library which should be linked against as an
 Android library project in your application.
